@@ -110,25 +110,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvanshbansal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suvanshbansal&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # 🛠 Featured Projects
 
@@ -185,6 +166,5 @@ If you like my work, consider giving a ⭐ to my repositories.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:2563eb,100:0f172a&height=120&section=footer"/>
-````
 
 
