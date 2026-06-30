@@ -30,7 +30,7 @@
 
 - Python
 - Data Structures & Algorithms
-- Machine Learning
+- AIML
 - Git & GitHub
 
 💡 Interested in
@@ -40,6 +40,7 @@
 - FinTech
 - Software Development
 - Open Source
+- Creating Softwares Via AI For Experimentational Purpose
 
 👯 Looking to collaborate on
 
